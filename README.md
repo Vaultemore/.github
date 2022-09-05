@@ -1,1 +1,3 @@
-# .github
+# Vaultemore
+
+Hackathon project
